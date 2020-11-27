@@ -1,0 +1,6 @@
+framework module Pods_Cofin_CofinUITests {
+  umbrella header "Pods-Cofin-CofinUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

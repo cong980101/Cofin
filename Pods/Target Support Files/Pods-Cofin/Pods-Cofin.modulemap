@@ -1,0 +1,6 @@
+framework module Pods_Cofin {
+  umbrella header "Pods-Cofin-umbrella.h"
+
+  export *
+  module * { export * }
+}
